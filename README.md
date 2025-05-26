@@ -42,7 +42,7 @@ First 3 letters of Category
 First 2 letters of Sub-Category
 Unique numeric product ID
 
-9. Formatted Sales Amount
+9. Formatted Sales Amount into INR
 
 Converted the Sales Amount column to Indian Currency Format for consistency and easier interpretation.
 
